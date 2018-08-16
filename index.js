@@ -18,6 +18,7 @@ function johnLennonFacts(facts){
 
      i++;
   }
+  
 }
 
 function iLoveTheBeatles(number){
@@ -30,4 +31,4 @@ function iLoveTheBeatles(number){
   return array;
 
   }
-}
+}`
