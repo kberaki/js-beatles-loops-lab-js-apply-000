@@ -14,11 +14,10 @@ function johnLennonFacts(facts){
   var array = [];
   let i = 0;
   while (i < facts.length){
-    array.push(facts + " !!!" +  "<br>")
+    array.push(facts + " !!!" +  "<br")
 
      i++;
   }
-  
 }
 
 function iLoveTheBeatles(number){
@@ -31,4 +30,5 @@ function iLoveTheBeatles(number){
   return array;
 
   }
-}`
+}
+
