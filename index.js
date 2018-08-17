@@ -12,13 +12,13 @@ return array;
 }
 
 function johnLennonFacts(facts) {
-  var shoutedFacts = []
+  var array = []
    let i = 0
   while (i < facts.length) {
-    shoutedFacts.push(`${facts[i]}!!!`)
+    array.push(`${facts[i]}!!!`)
     i++
   }
-   return shoutedFacts
+   return array;
 }
 function iLoveTheBeatles(number){
   var array = []
