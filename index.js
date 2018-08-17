@@ -11,7 +11,7 @@ return array;
 
 }
 function johnLennonFacts(facts){
-  var array = [];
+  const array = [];
   let i = 0;
   while (i < facts.length){
     array.push(facts + " !!!")
@@ -20,6 +20,7 @@ function johnLennonFacts(facts){
 }
 return array;
 }
+
 function iLoveTheBeatles(number){
   var array = []
   do{
