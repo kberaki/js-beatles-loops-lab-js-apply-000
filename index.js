@@ -10,16 +10,16 @@ return array;
 
 
 }
+function johnLennonFacts(facts){
+  var array = [];
+  let i = 0;
+  while (i < facts.length){
+    array.push(facts + " !!!" +  "<br")
 
-function johnLennonFacts(facts) {
-  var array = []
-   let i = 0
-  while (i < facts.length) {
-    array.push(facts[i]} + "!!!")
-    i++
+     i++;
   }
-   return array;
 }
+
 function iLoveTheBeatles(number){
   var array = []
   do{
@@ -28,5 +28,7 @@ function iLoveTheBeatles(number){
   } while (number < 15);
   {
   return array;
+
+  }
 }
-}
+
